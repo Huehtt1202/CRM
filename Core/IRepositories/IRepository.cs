@@ -5,11 +5,10 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.IRepositories
+namespace Core.IRepository
 {
-    public interface IRepository<T, U>
+    public interface IRepository<T, U> where T : class
     {
-        Task<T> GetAsync(T entity);
         Task<T> InsertAsync(T entity);
         Task<T> InsertRangAsync(IEnumerable<T> entity);
         Task<T> UpdateAsync(T entity);
@@ -19,6 +18,9 @@ namespace Core.IRepositories
 
         Task<T> FirstOrDefaultAsync(Expression<Func<T, bool>> expression = null);
         void SaveChange();
-
+        IQueryable<T> GetAll();
+        IQueryable<T> GetByWhere(Expression<Func<T, bool>> predicate);
+        T FindByID(U id);
+        T FindByName(U name);
     }
 }

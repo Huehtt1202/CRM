@@ -4,13 +4,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Core.IRepositories;
+using Core.IRepository;
 
-namespace Core.IRepositories
+namespace Core.IRepository
 {
-    //public interface IServiceRepository : IDisposable, IRepository<T, U>
+    //public interface IServiceRepository : IDisposable, IRepository<ServiceEntity>
     //{
-    //    IRepository<ServiceEntity> Service { get; }
-    //    Void
+
     //}
 }

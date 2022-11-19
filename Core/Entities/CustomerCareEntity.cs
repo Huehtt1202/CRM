@@ -24,3 +24,4 @@ namespace Core.Entities
         public string PartnerId { get; set; } //Id of personal customer or PartnerCompany
 
     }
+}
