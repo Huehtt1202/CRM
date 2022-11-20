@@ -7,20 +7,17 @@ using System.Threading.Tasks;
 
 namespace Core.IRepository
 {
-    public interface IRepository<T, U> where T : class
+    public interface IRepository<T> where T : class
     {
         Task<T> InsertAsync(T entity);
-        Task<T> InsertRangAsync(IEnumerable<T> entity);
+        //Task<T> InsertRangAsync(IEnumerable<T> entity);
         Task<T> UpdateAsync(T entity);
-        Task<T> UpdateRangAsync(IEnumerable<U> entity);
-        Task<bool> Delete(U id);
-        Task<bool> DeleteAsync(IEnumerable<U> id);
-
+        Task<bool> Delete(T id);
         Task<T> FirstOrDefaultAsync(Expression<Func<T, bool>> expression = null);
         void SaveChange();
         IQueryable<T> GetAll();
         IQueryable<T> GetByWhere(Expression<Func<T, bool>> predicate);
-        T FindByID(U id);
-        T FindByName(U name);
+        T FindByID(T id);
+        T FindByName(T name);
     }
 }

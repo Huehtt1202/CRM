@@ -57,8 +57,15 @@
     <Compile Include="Entities\PersonalCustomerEntity.cs" />
     <Compile Include="Entities\ServiceEntity.cs" />
     <Compile Include="Entities\UserEntity.cs" />
+    <Compile Include="IRepositories\IAddressRepository.cs" />
+    <Compile Include="IRepositories\IBranchOfCompanyRepository.cs" />
+    <Compile Include="IRepositories\ICustomerCareRepository.cs" />
+    <Compile Include="IRepositories\IEmployeeRepository.cs" />
+    <Compile Include="IRepositories\IPartnerCustomerRepository.cs" />
+    <Compile Include="IRepositories\IPersonalCustomerRepository.cs" />
     <Compile Include="IRepositories\IRepository.cs" />
     <Compile Include="IRepositories\IServiceRepository.cs" />
+    <Compile Include="IRepositories\IUserRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,3 @@
+D:\CRM\CRM\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\CRM\CRM\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+D:\CRM\CRM\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache

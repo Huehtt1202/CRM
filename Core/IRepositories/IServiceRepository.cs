@@ -8,8 +8,8 @@ using Core.IRepository;
 
 namespace Core.IRepository
 {
-    //public interface IServiceRepository : IDisposable, IRepository<ServiceEntity>
-    //{
+    public interface iservicerepository : IDisposable, IRepository<ServiceEntity>
+    {
 
-    //}
+    }
 }
