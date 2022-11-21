@@ -25,7 +25,7 @@ namespace EntityFrameworkCore.Repositories
             try
             {
                _dbContext.User_.Add(user);
-                return 1;
+                return Add(user);
             }
             catch(Exception ex)
             {
@@ -94,7 +94,7 @@ namespace EntityFrameworkCore.Repositories
             {
                 _dbSet.Attach(user);
                 _dbContext.Entry(user).State = EntityState.Modified;
-                return 1;
+                return Update(user);
             }
             catch(Exception ex)
             {

@@ -128,3 +128,7 @@ D:\CRM\CRM\WebAPI\bin\System.Numerics.Vectors.xml
 D:\CRM\CRM\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
 D:\CRM\CRM\WebAPI\obj\Debug\WebAPI.dll
 D:\CRM\CRM\WebAPI\obj\Debug\WebAPI.pdb
+D:\C#\CRM\CRM\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+D:\C#\CRM\CRM\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\C#\CRM\CRM\WebAPI\obj\Debug\WebAPI.dll
+D:\C#\CRM\CRM\WebAPI\obj\Debug\WebAPI.pdb

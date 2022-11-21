@@ -60,7 +60,8 @@ namespace EntityFrameworkCore.Repositories
 
         Task<T> IRepository<T>.FirstOrDefaultAsync(Expression<Func<T, bool>> expression)
         {
-            throw new NotImplementedException();
+            if( expression == null) return null;
+            return _dbSet.FirstOrDefaultAsync(expression);
         }
 
         IQueryable<T> IRepository<T>.GetAll()
