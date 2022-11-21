@@ -19,6 +19,8 @@ namespace Core.Entities
         public string BusinessSectorActivities { get; set; }
         public string NoteSummary { get; set; }
         public string SourceInformationCustomer { get; set; }
+
+        [Required(ErrorMessage = "Field is not null")]
         public virtual AddressEntity Address { get; set; }
     }
 }

@@ -1,0 +1,10 @@
+D:\CRM\CRM\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\CRM\CRM\Core\obj\Debug\Core.csproj.SuggestedBindingRedirects.cache
+D:\CRM\CRM\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\CRM\CRM\Core\bin\Debug\Core.exe.config
+D:\CRM\CRM\Core\bin\Debug\Core.exe
+D:\CRM\CRM\Core\bin\Debug\Core.pdb
+D:\CRM\CRM\Core\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CRM\CRM\Core\obj\Debug\Core.csproj.CopyComplete
+D:\CRM\CRM\Core\obj\Debug\Core.exe
+D:\CRM\CRM\Core\obj\Debug\Core.pdb
