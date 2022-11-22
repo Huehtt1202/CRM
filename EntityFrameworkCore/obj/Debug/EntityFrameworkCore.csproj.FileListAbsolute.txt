@@ -130,3 +130,4 @@ D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.CoreCompi
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.CopyComplete
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.exe
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.pdb
+D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.exe.config

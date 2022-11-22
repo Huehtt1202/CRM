@@ -14,5 +14,14 @@ namespace WebAPI.Controllers
 
             return View();
         }
+        public ActionResult Login()
+        {
+            return View();
+        }
+        public ActionResult Logout()
+        {
+            Session.Clear();//remove session
+            return RedirectToAction("Login");
+        }
     }
 }

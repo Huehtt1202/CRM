@@ -1,3 +1,11 @@
 D:\CRM\CRM\Service\obj\Debug\Service.csproj.AssemblyReference.cache
 D:\CRM\CRM\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
 D:\CRM\CRM\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\C#\CRM\CRM\Service\bin\Debug\Service.exe.config
+D:\C#\CRM\CRM\Service\bin\Debug\Service.exe
+D:\C#\CRM\CRM\Service\bin\Debug\Service.pdb
+D:\C#\CRM\CRM\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+D:\C#\CRM\CRM\Service\obj\Debug\Service.csproj.SuggestedBindingRedirects.cache
+D:\C#\CRM\CRM\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\C#\CRM\CRM\Service\obj\Debug\Service.exe
+D:\C#\CRM\CRM\Service\obj\Debug\Service.pdb
