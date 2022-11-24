@@ -12,6 +12,7 @@ namespace Core.Entities
     [Table("User")]
     public class UserEntity : BaseEntity
     {
+        public string DisplayUserName { get; set; }
         [Required(ErrorMessage = "Field is not null")]
         public string UserName { get; set; }
         [Required(ErrorMessage = "Field is not null")]

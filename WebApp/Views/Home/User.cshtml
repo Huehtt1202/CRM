@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Quản lý phân quyền";
+}
+@model WebApp.Models.UserModel
+<h2>@ViewBag.Title.</h2>
+<div>
+    <table style=" font-size=100%">
+        <tr>
+            <th>STT</th>
+            <th>Tên đăng nhập</th>
+            <th>tác vụ</th>
+        </tr>
+        <tr>
+            @{
+                var list = new List<WebApp.Models.UserModel>();
+            }
+            <td>@UserModel.Numbering</td>
+            <td>@UserModel.UserName</td>
+        </tr>
+    </table>
+</div>

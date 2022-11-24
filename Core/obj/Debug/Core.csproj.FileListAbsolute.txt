@@ -8,3 +8,12 @@ D:\CRM\CRM\Core\bin\Debug\System.ComponentModel.Annotations.dll
 D:\CRM\CRM\Core\obj\Debug\Core.csproj.CopyComplete
 D:\CRM\CRM\Core\obj\Debug\Core.exe
 D:\CRM\CRM\Core\obj\Debug\Core.pdb
+D:\C#\CRM\CRM\Core\bin\Debug\Core.dll.config
+D:\C#\CRM\CRM\Core\bin\Debug\Core.dll
+D:\C#\CRM\CRM\Core\bin\Debug\Core.pdb
+D:\C#\CRM\CRM\Core\bin\Debug\System.ComponentModel.Annotations.dll
+D:\C#\CRM\CRM\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\C#\CRM\CRM\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\C#\CRM\CRM\Core\obj\Debug\Core.csproj.CopyComplete
+D:\C#\CRM\CRM\Core\obj\Debug\Core.dll
+D:\C#\CRM\CRM\Core\obj\Debug\Core.pdb

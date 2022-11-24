@@ -79,11 +79,11 @@ D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\lib\rhel-x64\libgit2-106a5f2.so
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\lib\ubuntu.16.04-arm64\libgit2-106a5f2.so
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\lib\ubuntu.18.04-x64\libgit2-106a5f2.so
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\LibGit2Sharp.dll.config
-D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFrameworkCore.exe.config
-D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFrameworkCore.exe
+D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFrameworkCore.dll.config
+D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFrameworkCore.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFrameworkCore.pdb
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\BouncyCastle.Crypto.dll
-D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Core.exe
+D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Core.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Elasticsearch.Net.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFramework.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\EntityFramework.SqlServer.dll
@@ -102,6 +102,7 @@ D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\System.Numerics.Vectors.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\ZstdNet.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Core.pdb
+D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Core.dll.config
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Core.exe.config
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\BouncyCastle.Crypto.xml
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\Elasticsearch.Net.pdb
@@ -125,9 +126,7 @@ D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\System.Memory.xml
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\System.Numerics.Vectors.xml
 D:\C#\CRM\CRM\EntityFrameworkCore\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.AssemblyReference.cache
-D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.SuggestedBindingRedirects.cache
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.CoreCompileInputs.cache
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.csproj.CopyComplete
-D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.exe
+D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.dll
 D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.pdb
-D:\C#\CRM\CRM\EntityFrameworkCore\obj\Debug\EntityFrameworkCore.exe.config

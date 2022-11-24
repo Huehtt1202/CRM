@@ -264,13 +264,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj">
-      <Project>{a61333d0-4e46-4352-9f01-deab8ee95a20}</Project>
-      <Name>Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\EntityFrameworkCore\EntityFrameworkCore.csproj">
-      <Project>{586f383e-03ec-4970-a42e-5051e64d58dd}</Project>
-      <Name>EntityFrameworkCore</Name>
+    <ProjectReference Include="..\Service\Service.csproj">
+      <Project>{ee427b6e-3929-42eb-8bd8-c37797e283ea}</Project>
+      <Name>Service</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
